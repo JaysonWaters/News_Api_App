@@ -3,9 +3,10 @@ csc 3950
 
 News Api app
 
-This application allow you to search see article listing but not view the how article ( the Api only give me headlines).
+This application allow you to search see the article listing but not view the how article ( the Api only gives me headlines).
 
 How to use:
+****Use a simulator on Android Studio****
 
 When you open the app you will see "Zero articles found" and a "RETRY" button.
 To start seeing articles type something like "tech", "Bitcoin", "covid","Polotics".
