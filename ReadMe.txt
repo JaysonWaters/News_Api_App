@@ -1,6 +1,4 @@
 Jayson Waters
-5/8/20
-Final project
 csc 3950
 
 News Api app
@@ -20,4 +18,4 @@ One screen is the the activity_main.xml that will be the first screen you will s
 
 Second screen holds the card view for the articles going into the verticle linear layout.
 
-Third screen the Search bar adn button so you can seach for certain article or topic.
+Third screen the Search bar and button so you can seach for certain article or topic.
